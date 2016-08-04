@@ -1,0 +1,28 @@
+_repo: Stories-from-the-Pentamerone_2198
+_version: 0.0.1
+alternative_title: Pentamerone. English
+creator:
+  author:
+    agent_name: Basile, Giambattista
+    aliases:
+    - Abbattutis, Gian Alesio
+    - Basile, Giovanni Battista
+    deathdate: 1632
+    gutenberg_agent_id: '855'
+    url: http://www.gutenberg.org/2009/agents/855
+    wikipedia: http://en.wikipedia.org/wiki/Giambattista_Basile
+description: ''
+gutenberg_issued: '2000-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2198'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Folklore -- Italy'
+- GITenberg
+title: Stories from the Pentamerone
+url: http://www.gutenberg.org/ebooks/2198
